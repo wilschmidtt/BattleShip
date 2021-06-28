@@ -1,7 +1,4 @@
 # Human-vs-AI-BattleShip
-### Prerequisites
-* Understanding for the game of BattleShip
-  - If you have not played before, please play [this version](https://www.battleshiponline.org/) to gain familiarity with how the game works
 
 ## Running the Program
 
